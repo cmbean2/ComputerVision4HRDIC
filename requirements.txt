@@ -1,0 +1,16 @@
+matplotlib
+numpy
+pandas
+seaborn
+tifffile
+opencv-python
+Pillow
+pycocotools
+scipy
+shapely
+scikit-image
+scikit-learn
+ultralytics
+torch
+torchvision
+cupy
