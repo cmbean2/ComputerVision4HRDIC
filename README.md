@@ -9,11 +9,12 @@ If you use or benefit from this work please cite our work in the listed paper.
 
 This repository contains:
 1) The scripts used to train the model.
-2) The annotations and datasets used for model training. 
-3) The model weights post training.
-4) The scripts used for postprocessing the model predictions.
+2) The model weights post training.
+3) The scripts used for postprocessing the model predictions.
      - The script can use predictions from one step of deformation to assist in predicting events in further more deformed steps.
 
 The included code was developed for the project and may not be directly applicable to other tasks and modifications may be needed. The paper details several of the limitations of this work. 
+
+The annotations and datasets used for model training are available, if they are desired please reach out to us about them. The files are too large to upload here. 
 
 -cmbean2
